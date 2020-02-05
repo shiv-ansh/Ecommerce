@@ -50,7 +50,7 @@ const Home = () => {
             </div>
 
             <div className="row">
-                <Link className="col-12 col-lg-6 my-2" to="component/categories/Television">
+                <Link className="col-12 col-lg-6 my-2" to="component/categories/television">
 
                     <div className="card">
                         <img src="/images/television.jpeg" className={`card-img img-fluid ${styles.gridImages}`} alt="television poster" />
@@ -63,7 +63,7 @@ const Home = () => {
                     </div>
                 </Link>
 
-                <Link className="col-12 col-lg-6 my-2" to="/component/categories/Mobile">
+                <Link className="col-12 col-lg-6 my-2" to="/component/categories/mobile">
 
                     <div className="card">
                         <img src="/images/mobile.jpeg"
@@ -79,7 +79,7 @@ const Home = () => {
                     </div>
                 </Link>
 
-                <Link className="col-12 col-lg-6 my-2" to="/component/categories/Laptop">
+                <Link className="col-12 col-lg-6 my-2" to="/component/categories/laptop">
 
                     <div className="card">
                         <img src="/images/laptop.jpeg" className={`card-img img-fluid ${styles.gridImages}`} alt="television poster" />
@@ -92,7 +92,7 @@ const Home = () => {
                     </div>
                 </Link>
 
-                <Link className="col-12 col-lg-6 my-2" to="/component/categories/Gaming">
+                <Link className="col-12 col-lg-6 my-2" to="/component/categories/gaming">
 
                     <div className="card">
                         <img src="/images/gaming.jpeg" className={`card-img img-fluid ${styles.gridImages}`} alt="television poster" />
@@ -105,7 +105,7 @@ const Home = () => {
                     </div>
                 </Link>
 
-                <Link className="col-12 col-lg-6 my-2" to="/component/categories/Accesories">
+                <Link className="col-12 col-lg-6 my-2" to="/component/categories/accesories">
 
                     <div className="card">
                         <img src="/images/accesories.jpeg" className={`card-img img-fluid ${styles.gridImages}`} alt="television poster" />
@@ -117,7 +117,7 @@ const Home = () => {
                         </div>
                     </div>
                 </Link>
-                <Link className="col-12 col-lg-6 my-2" to="/component/categories/Appliance">
+                <Link className="col-12 col-lg-6 my-2" to="/component/categories/appliance">
 
                     <div className="card">
                         <img src="/images/appliance.jpeg"

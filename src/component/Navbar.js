@@ -32,22 +32,22 @@ const Navbar = () => {
                          </a>
 
                         <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <Link className="dropdown-item" to="/component/categories/Mobile">
+                            <Link className="dropdown-item" to="/component/categories/mobile">
                                 <i className="fas fa-mobile-alt mr-2 fa-lg"></i>Mobile
                             </Link>
-                            <Link className="dropdown-item" to="/component/categories/Television">
+                            <Link className="dropdown-item" to="/component/categories/television">
                                 <i className="fas fa-tv mr-2"></i>Televisions
                             </Link>
-                            <Link className="dropdown-item" to="/component/categories/Laptop">
+                            <Link className="dropdown-item" to="/component/categories/laptop">
                                 <i className="fas fa-laptop mr-2"></i>Laptop
                             </Link>
-                            <Link className="dropdown-item" to="/component/categories/Accesories">
+                            <Link className="dropdown-item" to="/component/categories/accesories">
                                 <i className="fas fa-keyboard mr-2"></i>Accessories
                             </Link>
-                            <Link className="dropdown-item" to="/component/categories/Gaming">
+                            <Link className="dropdown-item" to="/component/categories/gaming">
                                 <i className="fas fa-gamepad mr-2"></i>Gaming
                             </Link>
-                            <Link className="dropdown-item" to="/component/categories/Appliance">
+                            <Link className="dropdown-item" to="/component/categories/appliance">
                                 <i className="fas fa-blender mr-2"></i>Home Appliance
                             </Link>
                         </div>

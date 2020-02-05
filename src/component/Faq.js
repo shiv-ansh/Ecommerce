@@ -4,7 +4,7 @@ const Faq = () => {
 
     return (
         <div>
-            <h1>FAQ</h1>
+            <h1 className="text-center">FAQ</h1>
         </div>
     )
 }
